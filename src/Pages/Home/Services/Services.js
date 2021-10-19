@@ -58,7 +58,7 @@ const Services = () => {
                 </Row>
             </div>
             <div id="services">
-            <h2 className="text-black my-5 text-start">Our services</h2>
+            <h2 className="text-black my-5 text-start text-uppercase">Our services</h2>
             <div className="service-container">
                 {
                     services.map(service => <Service

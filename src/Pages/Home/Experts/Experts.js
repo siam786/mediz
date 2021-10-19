@@ -1,39 +1,31 @@
 import React from 'react';
-
-import mechanic1 from '../../../images/mechanic/mechanic-1.jpg';
-import mechanic2 from '../../../images/mechanic/mechanic-2.jpg'
-import mechanic3 from '../../../images/mechanic/mechanic-3.jpg'
-import mechanic4 from '../../../images/mechanic/mechanic-4.jpg'
 import Expert from '../Expert/Expert';
 
 const experts = [
     {
-        img: mechanic1,
-        name: 'Andrew Smith',
-        expertize: '-Engine Expert-'
+        img: "https://i.ibb.co/sRK5SkG/p-1-1-300x300.jpg",
+        name: 'Joshua Clark',
+        expertize: 'Anesthesiologist'
     },
     {
-        img: mechanic2,
-        name: 'John Anderson',
-        expertize: '-Polish Expert-'
+        img: "https://i.ibb.co/VJcrcgx/p-9-300x300.jpg",
+        name: 'Steven Jacob',
+        expertize: 'Anesthesiologist'
     },
     {
-        img: mechanic3,
-        name: 'Zakaria Smith',
-        expertize: '-Coloring Expert-'
-    },
-    {
-        img: mechanic4,
-        name: 'Sakib Anderson',
-        expertize: '-Alrounder Expert-'
-    },
+        img: "https://i.ibb.co/5s7ZBdk/p-8-300x300.jpg",
+        name: 'Emma Bunton',
+        expertize: 'Allergist'
+    }
+   
 ]
 
 const Experts = () => {
     return (
-        <div id="experts" className="container">
-            <h2 className="text-primary mt-5">Our Experts</h2>
+        <div id="experts" className="container py-5">
+            <h2 className="text-black my-5 text-start text-uppercase">Our Doctors</h2>
             <div className="row">
+                
                 {
                     experts.map(expert => <Expert
                         key={expert.name}
