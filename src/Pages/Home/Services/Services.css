@@ -6,6 +6,11 @@
 .service img{
     width: auto;
 }
+#emergenty-service{
+    background-image: url('https://i.ibb.co/12ZLy98/counter-bg.png');
+    background-position: left center;
+    background-size: cover;
+}
 /* Make it responsive */
 @media only screen and (max-width:688px) {
     .service-container{

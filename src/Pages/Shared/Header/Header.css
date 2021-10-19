@@ -5,3 +5,14 @@
     color: #17449e;
     text-transform: uppercase;
 }
+@media (min-width: 1024){
+    .logo{
+        width: 100%;
+    }
+   
+}
+@media (max-width: 767px){
+    .logo{
+        width: 225px;
+    }
+}
