@@ -1,7 +1,16 @@
-.service{
-    background-color: rgb(226, 241, 241);
-    border-radius:20px ;
+.service {
+    border-radius: 5px;
+    border: 2px solid #CD3D73;
 }
-.service img{
-    width: 100%;
+
+.service:hover{
+    border: 2px solid #fff;
+    background-image:linear-gradient(to left, #4B2C4C , #151F28);
+    color: #fff;
+}
+.learn:hover{
+    color: #fff;
+}
+.icon:hove{
+    color: #fff;
 }

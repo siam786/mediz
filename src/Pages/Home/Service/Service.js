@@ -1,20 +1,28 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { FaArrowRight } from "react-icons/fa";
 import "./Service.css";
+import { IconContext } from "react-icons";
 
 const Service = ({ service }) => {
   // const {service} = props;
-  const { id,name, price, description, img } = service;
+  const { id,name,description,img } = service;
   return (
-    <div className="service">
-      <img src={img} alt="" />
+    <div className="service p-4 text-start">
+      <img className="text-start pb-4" src={img} alt="" />
       <h3>{name}</h3>
-      <h5>Price: {price}</h5>
-      <p className="px-3">{description}</p>
+      <p className="py-3">{description}</p>
       <Link to={`/booking/${id}`}>
-        <button className="btn btn-danger text-white my-4">
-          Book{name.toLowerCase()}
-        </button>
+        <div className="text-primary my-4 d-flex justify-content-between align-items-center w-50">
+          <div className="learn">
+          Learn More
+            </div> 
+            <div className="icon">
+            <IconContext.Provider value={{ size:'1em',color: "blue", className: "global-class-name" }}>
+            <FaArrowRight/>
+            </IconContext.Provider>
+            </div>
+        </div>
       </Link>
     </div>
   );
