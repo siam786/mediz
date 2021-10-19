@@ -8,7 +8,6 @@ import Header from "./Pages/Shared/Header/Header";
 import AuthProvider from "./context/AuthProvider";
 import PrivateRouter from "./Pages/Login/PrivateRouter/PrivateRouter";
 import About from "./Pages/About/About";
-import Services from "./Pages/Services/Services";
 import Footer from "./Pages/Shared/Footer/Footer";
 
 
@@ -27,9 +26,6 @@ function App() {
           </Route>
           <Route path="/about">
             <About />
-          </Route>
-          <Route path="/services">
-            <Services />
           </Route>
           <Route path="/login">
             <Login />

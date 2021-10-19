@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router';
 
-const Booking = () => {
+const Booking = (props) => {
     const {bookingId} = useParams();
     return (
         <div>
