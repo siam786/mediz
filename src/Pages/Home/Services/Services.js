@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import Service from '../Service/Service';
 import './Services.css';
+import { FaAccusoft } from "react-icons/fa";
 
 const Services = () => {
     const [services, setServices] = useState([])
@@ -19,7 +20,7 @@ const Services = () => {
                         <div className="serive-text text-white">
                             <div className="slogan">
                                <div className="img-area">
-                               <img src="" alt="" />
+                               <img src="https://i.ibb.co/SspyHyh/Top-icon1.png" alt="" />
                                </div>
                                <div className="text-area">
                                    <h3 className="text-white mb-2">Emergency Services</h3>
@@ -33,7 +34,14 @@ const Services = () => {
                     </Col>
                     <Col lg={6} sm={12}>
                         <div className="opening-hour text-white">
-                            <h3>Opening hours</h3>
+                        <div className="slogan">
+                               <div className="img-area">
+                               <FaAccusoft/>
+                               </div>
+                               <div className="text-area">
+                                   <h3 className="text-white mb-2">Opening hours</h3>
+                               </div>
+                            </div>
                             <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.</p>
                             <div className="time-table">
                                 <div className="time d-flex">

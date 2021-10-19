@@ -1,44 +1,38 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+        "name": "Lung Diseases",
+        "description": "Airway diseases -- These diseases affect the tubes (airways) that carry oxygen and other gases into and out of the lungs. They usually cause a narrowing or blockage of the airways. Airway diseases include asthma, chronic obstructive pulmonary disease (COPD) and bronchiectasis. People with airway diseases often say they feel as if they're trying to breathe out through a straw.",
+        "img": "https://i.ibb.co/FxqCwJC/icon-1.png"
     },
     {
         "id": 2,
-        "name": "WHEEL ALIGNMENT",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+        "name": "Heart Diseases",
+        "description": "There are many types of heart disease, and each one has its own symptoms and treatment. For some, lifestyle changes and medicine can make a huge difference in improving your health. For others, you may need surgery to make your ticker work well again.",
+        "img": "https://i.ibb.co/Xsx4Cv6/icon-2.png"
     },
     {
         "id": 3,
-        "name": "OIL CHANGING",
-        "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+        "name": "Orthopaedic",
+        "description": "In short, there isn’t a difference between “orthopaedics” and “orthopedics,” at least not in regards to meaning. Both of these terms refer to the branch of medicine dealing with the treatment of bones, joints, and muscles. This means, of course, that information you find regarding “orthopaedic treatments for back pain” is the same as “orthopedic treatments for back pain” and vice versa. This is also true of any of the other conditions that an orthopedist would treat, including:",
+        "img": "https://i.ibb.co/xYF7FY1/icon-3.png"
     },
     {
         "id": 4,
-        "name": "BRAKE REPARING",
-        "price": "180",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
+        "name": "General Surgery",
+        "description": "General surgeons are doctors who specialize in surgical procedures. Surgery is any procedure that alters body tissues to diagnose or treat a medical condition. A general surgeon is part of a surgical team that also includes an anesthesiologist, nurses, and surgical technicians. You’ll talk to the surgeon about the procedure prior to surgery.",
+        "img": "https://i.ibb.co/nzwxNgy/Column-icon-4.png"
     },
     {
         "id": 5,
-        "name": "WASH AND GLASSING",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/FgQ3jXp/5.jpg"
+        "name": "Pharmacy",
+        "description": "This profession is very patient-focused, as you are likely to be the first person a patient will see for information on their illness. Pharmacists are often recommended to provide medical advice if a patient’s symptoms are not severe, meaning that they should be able to assess a patient’s needs and address them attentively.",
+        "img": "https://i.ibb.co/xj7ScvS/Column-icon5.png"
     },
     {
         "id": 6,
-        "name": "COMPLETE ANALYSIS",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-        "img": "https://i.ibb.co/zJy5ZDd/6.jpg"
+        "name": "Sports Injury",
+        "description": "Sports injuries are commonly caused by overuse, direct impact, or the application of force that is greater than the body part can structurally withstand.",
+        "img": "https://i.ibb.co/821sbc1/Column-icon6.png"
     }
 ]
