@@ -6,6 +6,7 @@ import "./Header.css"
 
 const Header = () => {
   const {user,logOut} = useAuth();
+ 
   return (
     <div>
       <Navbar bg="light" sticky="top" collapseOnSelect expand="lg">

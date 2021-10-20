@@ -12,7 +12,7 @@ const Service = ({ service }) => {
       <img className="text-start pb-4" src={img} alt="" />
       <h3>{name}</h3>
       <p className="py-3">{description}</p>
-      <Link to={`/booking/${id}`}>
+      <Link to={`/details/${id}`}>
         <div className="text-primary my-4 d-flex justify-content-between align-items-center w-50">
           <div className="learn">
           Learn More

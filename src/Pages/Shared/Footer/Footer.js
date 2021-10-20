@@ -5,6 +5,7 @@ import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 import React from "react";
 import "./Footer.css";
+import { FaFacebook,FaTwitter,FaYoutube,FaInstagram} from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -25,12 +26,12 @@ const Footer = () => {
             </div>
           </Col>
           <Col xs={12} md={3}>
-            <h4 className="text-start">Useful links</h4>
-            <ul className="text-start usefull-link">
-              <li>Home</li>
-              <li>Course</li>
-              <li>About</li>
-              <li>Contact</li>
+            <h4 className="text-start">Connect with us</h4>
+            <ul className="text-start usefull-link d-flex social">
+              <li><FaFacebook/></li>
+              <li><FaTwitter/></li>
+              <li><FaYoutube/></li>
+              <li><FaInstagram/></li>
             </ul>
           </Col>
           <Col xs={12} md={4}>

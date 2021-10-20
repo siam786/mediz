@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "About ALung Diseases",
+    "description": "Airway diseases -- These diseases affect the tubes (airways) that carry oxygen and other gases into and out of the lungs. They usually cause a narrowing or blockage of the airways. Airway diseases include asthma, chronic obstructive pulmonary disease (COPD) and bronchiectasis. People with airway diseases often say they feel as if they're trying to breathe out through a straw",
+    "img": "https://a6e8z9v6.stackpathcdn.com/mediz/hospital/wp-content/uploads/sites/2/2019/12/pic1-doc-departent.jpg"
+  },
+  {
+    "id": 2,
+    "title": "About Allergy Department",
+    "description": "There are many types of heart disease, and each one has its own symptoms and treatment. For some, lifestyle changes and medicine can make a huge difference in improving your health. For others, you may need surgery to make your ticker work well again.",
+    "img": "https://i.ibb.co/1v4V0Cm/lung.jpg"
+  },
+  {
+    "id": 3,
+    "title": "About Orthopaedic",
+    "description": "In short, there isn’t a difference between “orthopaedics” and “orthopedics,” at least not in regards to meaning. Both of these terms refer to the branch of medicine dealing with the treatment of bones, joints, and muscles. This means, of course, that information you find regarding “orthopaedic treatments for back pain” is the same as “orthopedic treatments for back pain” and vice versa. This is also true of any of the other conditions that an orthopedist would treat, including:",
+    "img": "https://a6e8z9v6.stackpathcdn.com/mediz/hospital/wp-content/uploads/sites/2/2019/12/pic1-doc-departent.jpg"
+  },
+  {
+    "id": 4,
+    "title": "About General Surgery",
+    "description": "General surgeons are doctors who specialize in surgical procedures. Surgery is any procedure that alters body tissues to diagnose or treat a medical condition. A general surgeon is part of a surgical team that also includes an anesthesiologist, nurses, and surgical technicians. You’ll talk to the surgeon about the procedure prior to surgery.",
+    "img": "https://a6e8z9v6.stackpathcdn.com/mediz/hospital/wp-content/uploads/sites/2/2019/12/General-Surgery.jpg"
+  },
+  {
+    "id": 5,
+    "title": "About Pharmacy",
+    "description": "This profession is very patient-focused, as you are likely to be the first person a patient will see for information on their illness. Pharmacists are often recommended to provide medical advice if a patient’s symptoms are not severe, meaning that they should be able to assess a patient’s needs and address them attentively.",
+    "img": "https://a6e8z9v6.stackpathcdn.com/mediz/hospital/wp-content/uploads/sites/2/2019/12/Pharmacy.jpg"
+  },
+  {
+    "id": 6,
+    "title": "About Sports Injury",
+    "description": "Sports injuries are commonly caused by overuse, direct impact, or the application of force that is greater than the body part can structurally withstand.",
+    "img": "https://a6e8z9v6.stackpathcdn.com/mediz/hospital/wp-content/uploads/sites/2/2019/12/Sport-Injury.jpg"
+  }
+]

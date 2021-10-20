@@ -18,7 +18,8 @@
 .footer {
     background-image: url('https://i.ibb.co/12ZLy98/counter-bg.png');
     background-position: center;
-    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 @media only screen and (min-width:1025px ){
@@ -26,7 +27,15 @@
         padding: 120px !important;
     }
 }
+.social svg{
+    font-size: 3em;
+    padding-left: 13px;
+    cursor: pointer;
 
+}.social svg:hover{
+   color: red;
+
+}
 @media (max-width: 767px){
     .f-bottom{
         flex-direction: column;
